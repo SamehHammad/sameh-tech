@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sameh-tech/static/css/main.0f44899c.css",
+    "main.js": "/sameh-tech/static/js/main.bfdd2173.js",
+    "static/media/sameh.png": "/sameh-tech/static/media/sameh.76b214faafcfaebd0f66.png",
+    "index.html": "/sameh-tech/index.html",
+    "main.0f44899c.css.map": "/sameh-tech/static/css/main.0f44899c.css.map",
+    "main.bfdd2173.js.map": "/sameh-tech/static/js/main.bfdd2173.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f44899c.css",
+    "static/js/main.bfdd2173.js"
+  ]
+}
