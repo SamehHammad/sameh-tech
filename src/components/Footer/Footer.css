@@ -1,0 +1,20 @@
+.Footer{
+    background-color: #fff;
+    box-shadow: rgb(43 52 69 / 10%) 0px 4px 16px;
+    position: fixed;
+    top:16.6vh;
+    right: 0;
+    z-index: 76;
+}
+.Allscoil{
+    display: flex;
+    flex-direction: column;
+}
+.fa-brands{
+    padding: 10px;
+}
+.fa-brands:hover{
+    background-color: #D46A6A;
+    color: #fff;
+    cursor: pointer;
+}
